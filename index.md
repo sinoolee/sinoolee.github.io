@@ -3,8 +3,6 @@ layout: default
 title: 首页
 ---
 
-# SinooLee 海外数字产品与出海工具博客
-
 欢迎来到我的博客，这里分享：
 
 - Google生态（Gmail / Google Voice / YouTube / Gemini）
@@ -15,7 +13,7 @@ title: 首页
 
 ---
 
-## 🆕 最新文章
+## 最新文章
 
 <ul>
   {% for post in site.posts %}
