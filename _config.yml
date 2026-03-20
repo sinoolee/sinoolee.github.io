@@ -1,0 +1,40 @@
+title: "小C帮你搭的GitHub SEO博客"
+description: "聚焦 Google 生态、Apple 生态、AI 工具、数字礼品卡与跨境数字服务的内容博客。"
+lang: zh-CN
+timezone: Asia/Shanghai
+url: "https://yourusername.github.io"
+baseurl: ""
+author: "你的品牌名"
+markdown: kramdown
+permalink: /:categories/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+collections_dir: .
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+    values:
+      image: "/assets/og-default.jpg"
+
+nav:
+  - title: "首页"
+    url: "/"
+  - title: "Google生态"
+    url: "/google/"
+  - title: "Apple生态"
+    url: "/apple/"
+  - title: "AI工具"
+    url: "/ai-tools/"
+  - title: "数字礼品卡"
+    url: "/gift-cards/"
+  - title: "关于"
+    url: "/about/"
