@@ -44,5 +44,5 @@ title: 首页
 
 如果你不想自己折腾环境配置，可以直接使用已配置好的资源：
 
-- https://www.guokezhihui.com
-- https://www.edigitalchoice.com
+- 👉 [海外资源服务（guokezhihui）](https://www.guokezhihui.com)
+- 👉 [数字产品平台（edigitalchoice）](https://www.edigitalchoice.com)
