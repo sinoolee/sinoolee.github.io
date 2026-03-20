@@ -6,11 +6,11 @@ theme: minima
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 author: "sinoolee"
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
 
 defaults:
   - scope:
@@ -18,21 +18,3 @@ defaults:
       type: "posts"
     values:
       layout: post
-  - scope:
-      path: ""
-    values:
-      image: "/assets/og-default.jpg"
-
-nav:
-  - title: "首页"
-    url: "/"
-  - title: "Google生态"
-    url: "/google/"
-  - title: "Apple生态"
-    url: "/apple/"
-  - title: "AI工具"
-    url: "/ai-tools/"
-  - title: "数字礼品卡"
-    url: "/gift-cards/"
-  - title: "关于"
-    url: "/about/"
