@@ -1,12 +1,11 @@
 title: "SinooLee 海外数字产品与出海工具博客"
 description: "专注分享Google生态、Apple生态、AI工具、数字礼品卡、数字移民、海外社媒、海外网赚、娱乐消费与店铺指南等出海实用内容，涵盖账号注册、风控解决、低成本订阅、跨境资源配置与真实避坑经验，帮助用户高效获取海外数字产品与服务。"
-lang: zh-CN
-timezone: Asia/Shanghai
 url: "https://sinoolee.github.io"
 baseurl: ""
-author: "sinoolee"
+theme: minima
+permalink: /:year/:month/:day/:title.html
 markdown: kramdown
-permalink: /:categories/:title/
+author: "sinoolee"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
