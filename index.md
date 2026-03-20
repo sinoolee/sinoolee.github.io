@@ -1,17 +1,27 @@
 ---
-layout: home
-title: "首页"
-description: "持续更新 Google、Apple、AI 工具、数字礼品卡与跨境使用教程。"
+layout: default
+title: 首页
 ---
 
-欢迎来到我的内容站。
+# SinooLee 海外数字产品与出海工具博客
 
-这里会持续更新：
+欢迎来到我的博客，这里分享：
 
-- Google 生态教程
-- Apple 生态教程
-- AI 工具实测
-- 数字礼品卡使用攻略
-- 跨境账号与数字服务经验
+- Google生态（Gmail / Google Voice / YouTube / Gemini）
+- Apple生态（Apple ID / iCloud+ / 礼品卡）
+- AI工具（ChatGPT / Gemini / Claude）
+- 数字礼品卡与账号资源
+- 出海工具与跨境实用经验
 
-你可以先从最新文章开始看。
+---
+
+## 🆕 最新文章
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small>（{{ post.date | date: "%Y-%m-%d" }}）</small>
+    </li>
+  {% endfor %}
+</ul>
