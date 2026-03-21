@@ -138,19 +138,19 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 
 **第四步：重新创建支付资料**
 
-再次登录 [payments.google.com](https://payments.google.com)，选择“添加支付方式”，在弹出的窗口中依次输入：
+再次**登录 [Google Payment](https://payments.google.com)**，选择“**添加支付方式**”，在弹出的窗口中依次输入：
 
 - 信用卡信息
 - 地址信息
 
-完成后点击保存。
+完成后点击“**保存**”。
 
 你可以使用真实信用卡，或者借助虚拟信用卡信息：
 
 - 使用地址生成器获取地址资料
 - 复制生成器地址信息和信用卡信息到支付资料
 
-因为使用的是虚假信用卡信息，会有错误提示，看到提示后点击“关闭按钮”即可。
+因为使用的是虚假信用卡信息，会有错误提示，看到提示后点击“**关闭按钮**”即可。
 ![创建新的Google支付资料](https://sinoolee.github.io/assets/images/google-payment-add-payment-method.jpg)
 
 **第五步：确认新Payment 国家**
