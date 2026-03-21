@@ -183,7 +183,7 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 **总结**：Google账号归属地区对 Gemini 订阅成功有一定影响，但权重逐步下降。建议使用以下地区的 Google 账号：
 
 - 美国、英国、加拿大、日本、德国、法国、韩国、香港等。
-👉 [Google账号各个国家Gmail解决方案](https://www.guokezhihui.com/)
+- 👉 [Google账号各个国家Gmail解决方案](https://www.guokezhihui.com/)
 ---
 
 ## 六、Gemini订阅失败常见问题
