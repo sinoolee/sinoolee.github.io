@@ -102,6 +102,7 @@ Google账号实际上存在三层地区结构：
 类似账号的“身份证地区”，由当初Google账号创建时采用的IP所决定。你可以访问以下网址查看账号当前的国家或地区版本：
 
 - [Google政策条款](https://policies.google.com/terms)
+![查看Google账号归属地区](https://sinoolee.github.io/assets/images/google-account-country-version-check.jpg)
 
 #### 第二层：Google Payment付款地区（Billing Region）
 
@@ -134,6 +135,7 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 ### 第三步：关闭旧支付资料
 
 关闭理由可以随便选一个，重要的是点击“我要关闭旧的付款资料”。
+![关闭Google旧支付资料](https://sinoolee.github.io/assets/images/google-payment-close-profile-change-country.jpg)
 
 ### 第四步：重新创建支付资料
 
@@ -149,15 +151,22 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 - 使用地址生成器获取地址资料
 - 复制生成器地址信息和信用卡信息到支付资料
 
-完成后点击“保存”按钮。
+因为使用的是虚假信用卡信息，会有错误提示，看到提示后点击“关闭按钮”即可。
+![创建新的Google支付资料](https://sinoolee.github.io/assets/images/google-payment-add-payment-method.jpg)
 
 ### 第五步：确认新Payment 国家
 
 在 Payment 后台 → 设置 → 支付资料 → 国家/地区中确认更新是否成功。
+![确认新的Google支付国家](https://sinoolee.github.io/assets/images/google-payment-country-region-settings.jpg)
 
 ### 第六步：核验是否可以订阅Google AI
 
-环境准备：关闭所有浏览器，使用 Chrome 无痕模式，或使用指纹浏览器。
+环境准备：关闭所有浏览器，使用Chrome无痕模式，或使用指纹浏览器。
+网络接入：连接专线网络。（比较推荐指纹浏览器+家庭住宅IP网络组合搭建的网络环境）
+账号登录：登录目标Google 账号（确保已退出所有家庭组，且年龄设置 ≥18岁）。
+支付配置：进入payments.google.com，确认已删除旧资料，并在当前环境下添加新卡，地址填写IP所在城市的真实地址。
+执行订阅：访问 Gemini 官网，点击订阅。
+![核验Google是否可以订阅Google AI](https://sinoolee.github.io/assets/images/gemini-subscription-plan-google-ai.jpg)
 
 ---
 
@@ -174,7 +183,7 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 **总结**：Google账号归属地区对 Gemini 订阅成功有一定影响，但权重逐步下降。建议使用以下地区的 Google 账号：
 
 - 美国、英国、加拿大、日本、德国、法国、韩国、香港等。
-
+- **Google账号各个国家Gmail**： (https://www.guokezhihui.com/)
 ---
 
 ## 六、Gemini订阅失败常见问题
@@ -187,7 +196,24 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 - 账号年龄未达要求
 - IP地区异常
 
+**Gemini无法订阅，有没有一定可以订阅的账号？** 
+- 严格来说，没有100%保证的账号，但只要Google Payment国家属于Gemini支持地区，并且账号年龄、IP环境等符合要求，就可以大幅提高订阅成功率。如果你不想自己一步步排查这些复杂条件，也可以直接使用已经完成环境配置的账号，避免反复出现Gemini无法订阅的问题。
+- **直接Gemini订阅的Google账号**： (https://edigitalchoice.com/buy/105)
 ---
+
+## 总结
+Gemini 订阅失败通常不是单一问题，而是多因素叠加结果。
+
+真正关键因素包括：
+
+网络访问环境
+服务支持国家
+付款资料地区
+
+只要逐项排查，大多数用户都可以找到 Gemini无法订阅的真实原因。
+
+这里放上一些 AI 生成的作品供大家欣赏：
+![Google AI生成的作品](https://sinoolee.github.io/assets/images/iron-wall-vs-swift-wind.jpg)
 
 ## 📚 相关文章推荐
 
