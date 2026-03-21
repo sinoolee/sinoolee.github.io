@@ -89,6 +89,7 @@ Google AI 服务属于付费订阅产品，通常要求：
 
 - 无法开通 AI 订阅
 - 修改付款资料也无法解决问题
+![查看账号年龄方法](https://sinoolee.github.io/assets/images/google-account-birthday-verification.jpg)
 
 ### 第三步：检查Google支付资料国家
 
