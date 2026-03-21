@@ -96,13 +96,13 @@ Google AI 服务属于付费订阅产品，通常要求：
 
 Google账号实际上存在三层地区结构：
 
-#### 第一层：Google账号归属地区（Account Region）
+**第一层：Google账号归属地区（Account Region）**
 
 类似账号的“**身份证地区**”，由当初Google账号创建时采用的IP所决定。
 <br>你可以访问以下网址查看账号当前的国家或地区版本：[Google政策条款](https://policies.google.com/terms)
 ![查看Google账号归属地区](https://sinoolee.github.io/assets/images/google-account-country-version-check.jpg)
 
-#### 第二层：Google Payment付款地区（Billing Region）
+**第二层：Google Payment付款地区（Billing Region）**
 
 这个“归属”会直接决定你能否订阅 Gemini Pro、YouTube Premium、Google One等，具体影响订阅商品的价格（你做套利最关心的）。不同地区价格差异巨大，比如：
 
@@ -116,7 +116,7 @@ Google账号实际上存在三层地区结构：
 - 你结算时使用的货币
 - 是否有本地优惠
 
-#### 第三层：Google Play商店地区（Store Region）
+**第三层：Google Play商店地区（Store Region）**
 
 Google Play地区实际上由 Payment 地区决定。如果你的账号和支付信息没有匹配好，就会出现无法订阅的问题。
 
