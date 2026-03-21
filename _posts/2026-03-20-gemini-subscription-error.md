@@ -99,8 +99,7 @@ Google账号实际上存在三层地区结构：
 #### 第一层：Google账号归属地区（Account Region）
 
 类似账号的“**身份证地区**”，由当初Google账号创建时采用的IP所决定。
-<br>你可以访问以下网址查看账号当前的国家或地区版本：
-<br>[Google政策条款](https://policies.google.com/terms)
+<br>你可以访问以下网址查看账号当前的国家或地区版本：[Google政策条款](https://policies.google.com/terms)
 ![查看Google账号归属地区](https://sinoolee.github.io/assets/images/google-account-country-version-check.jpg)
 
 #### 第二层：Google Payment付款地区（Billing Region）
