@@ -98,9 +98,9 @@ Google账号实际上存在三层地区结构：
 
 #### 第一层：Google账号归属地区（Account Region）
 
-类似账号的“身份证地区”，由当初Google账号创建时采用的IP所决定。你可以访问以下网址查看账号当前的国家或地区版本：
-
-- [Google政策条款](https://policies.google.com/terms)
+类似账号的“**身份证地区**”，由当初Google账号创建时采用的IP所决定。
+<br>你可以访问以下网址查看账号当前的国家或地区版本：
+<br>[Google政策条款](https://policies.google.com/terms)
 ![查看Google账号归属地区](https://sinoolee.github.io/assets/images/google-account-country-version-check.jpg)
 
 #### 第二层：Google Payment付款地区（Billing Region）
@@ -202,7 +202,7 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 
 如果你不想自己一步步排查这些复杂条件，也可以直接使用已经完成环境配置的账号，避免反复出现Gemini无法订阅的问题。
 
-👉 [直接Gemini订阅的Google账号](https://edigitalchoice.com/buy/105)
+👉[不想折腾环境？直接使用可订阅Gemini的账号方案](https://edigitalchoice.com/buy/105)
 ---
 
 ## 总结
