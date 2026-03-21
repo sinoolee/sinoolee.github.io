@@ -128,16 +128,16 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 
 **步骤如下**：
 
-### 第一步：登录 [Google Payment](https://payments.google.com)
+**第一步：登录 [Google Payment](https://payments.google.com)**
 
-### 第二步：进入设置 → 支付资料
+**第二步：进入设置 → 支付资料**
 
-### 第三步：关闭旧支付资料
+**第三步：关闭旧支付资料**
 
 关闭理由可以随便选一个，重要的是点击“我要关闭旧的付款资料”。
 ![关闭Google旧支付资料](https://sinoolee.github.io/assets/images/google-payment-close-profile-change-country.jpg)
 
-### 第四步：重新创建支付资料
+**第四步：重新创建支付资料**
 
 再次登录 [payments.google.com](https://payments.google.com)，选择“添加支付方式”，在弹出的窗口中依次输入：
 
@@ -154,12 +154,12 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 因为使用的是虚假信用卡信息，会有错误提示，看到提示后点击“关闭按钮”即可。
 ![创建新的Google支付资料](https://sinoolee.github.io/assets/images/google-payment-add-payment-method.jpg)
 
-### 第五步：确认新Payment 国家
+**第五步：确认新Payment 国家**
 
 在 Payment 后台 → 设置 → 支付资料 → 国家/地区中确认更新是否成功。
 ![确认新的Google支付国家](https://sinoolee.github.io/assets/images/google-payment-country-region-settings.jpg)
 
-### 第六步：核验是否可以订阅Google AI
+**第六步：核验是否可以订阅Google AI**
 
 环境准备：关闭所有浏览器，使用Chrome无痕模式，或使用指纹浏览器。
 网络接入：连接专线网络。（比较推荐指纹浏览器+家庭住宅IP网络组合搭建的网络环境）
