@@ -159,7 +159,7 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 在 Payment 后台 → 设置 → 支付资料 → 国家/地区中确认更新是否成功。
 ![确认新的Google支付国家](https://sinoolee.github.io/assets/images/google-payment-country-region-settings.jpg)
 
-### 第六步：核验是否可以订阅Google AI
+- 第六步：核验是否可以订阅Google AI
 
 环境准备：关闭所有浏览器，使用Chrome无痕模式，或使用指纹浏览器。
 网络接入：连接专线网络。（比较推荐指纹浏览器+家庭住宅IP网络组合搭建的网络环境）
