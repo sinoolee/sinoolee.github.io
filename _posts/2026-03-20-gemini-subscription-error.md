@@ -199,6 +199,7 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 **Gemini无法订阅，有没有一定可以订阅的账号？** 
 
 严格来说，没有100%保证的账号，但只要Google Payment国家属于Gemini支持地区，并且账号年龄、IP环境等符合要求，就可以大幅提高订阅成功率。如果你不想自己一步步排查这些复杂条件，也可以直接使用已经完成环境配置的账号，避免反复出现Gemini无法订阅的问题。<br>
+
 👉 [直接Gemini订阅的Google账号](https://edigitalchoice.com/buy/105)
 ---
 
