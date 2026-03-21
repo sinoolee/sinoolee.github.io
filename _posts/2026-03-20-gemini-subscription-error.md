@@ -162,7 +162,7 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 **环境准备**：关闭所有浏览器，使用Chrome无痕模式，或使用指纹浏览器。<br>
 **网络接入**：连接专线网络。（比较推荐指纹浏览器+家庭住宅IP网络组合搭建的网络环境）<br>
 **账号登录**：登录目标Google 账号（确保已退出所有家庭组，且年龄设置 ≥18岁）。<br>
-**支付配置**：进入**[Google Payment](https://payments.google.com)**，确认已删除旧资料，并在当前环境下添加新卡，地址填写IP所在城市的真实地址。<br>
+**支付配置**：进入 **[Google Payment](https://payments.google.com)**，确认已删除旧资料，并在当前环境下添加新卡，地址填写IP所在城市的真实地址。<br>
 **执行订阅**：访问 **[Gemini 官网](https://gemini.google/subscriptions/)**，点击订阅。
 ![核验Google是否可以订阅Google AI](https://sinoolee.github.io/assets/images/gemini-subscription-plan-google-ai.jpg)
 
