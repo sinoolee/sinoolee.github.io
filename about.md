@@ -54,7 +54,10 @@ https://www.myggpark.com
 https://www.edigitalchoice.com
 
 👉 跨境工具、AI应用与出海资源：
-https://www.guokezhihui.com
+https://www.accssupply.com/（中英文站）
+
+👉 跨境工具、AI应用与出海资源：
+https://www.guokezhihui.com（中文主站）
 
 ---
 
