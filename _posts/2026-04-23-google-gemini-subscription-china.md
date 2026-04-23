@@ -103,7 +103,7 @@ PayPal 注册/养号难 + 付款也有风控
 **原理**：利用Apple Store的内购机制，绕过复杂的网页端风控。
 
 **关键点**：  
-确保你的 Apple ID 为非中国区（如美区），且账号环境稳定。  
+确保你的 Apple ID 为非中国区（如 **[美区ID]**(https://www.edigitalchoice.com/buy/5)，且账号环境稳定。  
 支付方式：Apple礼品卡
 
 **优势**：
@@ -150,7 +150,7 @@ Google Play礼品卡付款总是失败，是最容易“翻车”的方式。
 
 必须同时满足：  
 - 账号地区  
-- IP物理地区（注意：不是V-PN使用的IP地区）  
+- IP物理地区（注意：不是VPN使用的IP地区）  
 - Payment Profile
 
 **现实情况是**：  
