@@ -1,49 +1,67 @@
 ---
 layout: default
-title: 首页
+title: 数智通｜出海研究站
 ---
 
-# 🌍 海外账号与AI工具一站式解决方案
+# 🌍 数智通｜出海研究站
 
-专注解决：Gmail风控 / Gemini订阅 / Apple ID支付 / ChatGPT低价订阅
-
----
-
-## 🔥 热门问题（新手必看）
-
-- 👉 [Gemini无法订阅解决教程](#)
-- 👉 Gmail注册被限制怎么办？
-- 👉 Apple ID充值失败如何解决？
-- 👉 ChatGPT Plus低价订阅指南
+> 分享真实可用的海外数字服务实战指南  
+> 解决订阅、支付与账号风控问题
 
 ---
 
-## 📚 分类导航
+## 🚀 快速入口（核心服务）
 
-- Google生态
-- Apple生态
-- AI工具
-- 数字礼品卡
+如果你在使用海外服务时遇到问题：
+
+- ❌ 无法订阅 ChatGPT / Gemini / AI工具  
+- ❌ 海外支付失败（信用卡 / 地区限制）  
+- ❌ 账号注册困难 / 风控频繁  
+
+👉 可以直接使用我们的解决方案：
+
+🌐 数智通｜海外智选（主站： 综合服务 / 海外服务）  
+👉 https://accssupply.com  
+
+🎮 数智通｜数字甄选（海外游戏 / 礼品卡）  
+👉 https://edigitalchoice.com  
+
+🌏 数智通｜跨境严选（分站：跨境服务 / 老客户）  
+👉 https://guokezhihui.com  
 
 ---
 
-## 🆕 最新文章
+## 📘 最新文章
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>（{{ post.date | date: "%Y-%m-%d" }}）</small>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts limit:10 %}
+- [{{ post.title }}]({{ post.url }})  
+{% endfor %}
 
 ---
 
-## 🚀 获取资源 / 服务
+## 🧠 热门专题
 
-如果你不想自己折腾环境配置，可以直接使用已配置好的资源：
+- Gemini订阅问题解决  
+- ChatGPT订阅教程  
+- Google账号与Gmail风控  
+- Apple ID与App Store使用  
 
-- 👉 [数字产品平台（edigitalchoice）](https://www.edigitalchoice.com)
-- 👉 [综合资源服务（accssupply.com）](https://www.accssupply.com/)
-- 👉 [老客户旧站（guokezhihui）](https://www.guokezhihui.com)
+---
+
+## 🌍 关于数智通
+
+数智通专注于帮助中国用户解决海外数字服务使用问题，涵盖：
+
+- AI工具订阅（Gemini / ChatGPT）
+- 海外账号（Gmail / Apple ID）
+- 海外支付与地区限制解决方案  
+
+---
+
+## 📬 联系 / 交流
+
+（这里可以放你的微信 / 私域入口）
+
+---
+
+⭐ 如果这篇内容对你有帮助，欢迎收藏或分享！
