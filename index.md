@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 数智通｜出海研究站
+title: 主页
 ---
 
 # 🌍 数智通｜出海研究站
