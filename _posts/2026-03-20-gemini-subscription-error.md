@@ -227,11 +227,11 @@ Gemini 订阅失败通常不是单一问题，而是多因素叠加结果。
 
 ## 🔗 其他资源
 
-- **数智通｜出海研究站主页**： [myggpark.com](https://www.myggpark.com)  
-- **数智通｜跨境严选**：[guokezhihui.com](https://www.guokezhihui.com)  
-- **数智通｜数字甄选**：[edigitalchoice.com](https://www.edigitalchoice.com)  
-- **数智通｜海外智选**：[accssupply.com](https://www.accssupply.com)  
-- **数智通｜服务导航站**：[kuajingchoice.com](https://www.kuajingchoice.com)
+- **数智通｜出海研究站**： [myggpark.com](https://www.myggpark.com)  **主页**
+- **数智通｜跨境严选**：[guokezhihui.com](https://www.guokezhihui.com)  **产品**
+- **数智通｜数字甄选**：[edigitalchoice.com](https://www.edigitalchoice.com)  **产品**
+- **数智通｜海外智选**：[accssupply.com](https://www.accssupply.com)  **产品**
+- **数智通｜服务导航站**：[kuajingchoice.com](https://www.kuajingchoice.com)**导航**
 
 ---
 
