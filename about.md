@@ -53,11 +53,11 @@ https://www.myggpark.com
 👉 数字产品与服务：
 https://www.edigitalchoice.com
 
-👉 跨境工具、AI应用与出海资源：
-https://www.accssupply.com/（中英文站）
+👉 跨境工具与出海资源：
+https://www.accssupply.com/
 
-👉 跨境工具、AI应用与出海资源：
-https://www.guokezhihui.com（中文主站）
+👉 AI应用与综合资源：
+https://www.guokezhihui.com
 
 ---
 
