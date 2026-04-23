@@ -190,7 +190,11 @@ Google Play礼品卡付款总是失败，是最容易“翻车”的方式。
 
 如果 DIY 方案屡屡碰壁，说明当前的账号环境积累了过多的异常权重。此时，选择“付费代劳”或者“弃号重练”可能是最高效的解决方案。
 
-![Google Gemini订阅代劳方式对比](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-methods-comparison.jpg)
+以下是几种“代劳”方式的汇总：
+
+![Google Gemini订阅代劳方式对比]
+(https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-methods-comparison.jpg)
+
 ---
 
 **希望这份指南能帮你节省时间，顺利开启你的Google Gemini AI 之旅！**
