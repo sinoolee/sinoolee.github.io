@@ -156,7 +156,8 @@ Google Play礼品卡付款总是失败，是最容易“翻车”的方式。
 **现实情况是**：  
 即便你使用了所谓的“海外IP”，如果账号历史轨迹、支付资料曾在中国留痕，Google礼品卡连充值都无法充值进去。
 
-![Google Gemini无法订阅提示地区不支持](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-error-region.jpg)
+![Google Play礼品卡地区不匹配导致订阅失败](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-play-gift-card-region-error.png)
+
 **结论**：  
 非极客用户，请直接绕道。时间成本高且成功率不稳定。
 
