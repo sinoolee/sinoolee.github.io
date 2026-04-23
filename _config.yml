@@ -1,20 +1,36 @@
-title: "SinooLee 海外数字产品与出海工具博客"
-description: "专注分享Google生态、Apple生态、AI工具、数字礼品卡、数字移民、海外社媒、海外网赚、娱乐消费与店铺指南等出海实用内容，涵盖账号注册、风控解决、低成本订阅、跨境资源配置与真实避坑经验，帮助用户高效获取海外数字产品与服务。"
-url: "https://sinoolee.github.io"
-baseurl: ""
-theme: minima
-permalink: /:year/:month/:day/:title.html
-markdown: kramdown
-author: "sinoolee"
+title: 数智通｜出海研究站
+email: myggpark@gmail.com
+description: >-
+  分享真实可用的海外数字服务实战指南，解决订阅、支付与账号风控问题。
+  Focus on AI subscriptions, global payment solutions, and account risk control.
 
+baseurl: "" 
+url: "https://sinoolee.github.io"
+
+author: 数智通
+
+# SEO相关
+lang: zh-CN
+timezone: Asia/Shanghai
+
+# 主题（你现在应该是 minima）
+theme: minima
+
+# 永久链接结构（很重要）
+permalink: /:year/:month/:day/:title.html
+
+# 社交（可选）
+github_username: sinoolee
+
+# 插件（GitHub Pages支持的）
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
 
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
+# 首页显示文章数量（可选）
+paginate: 10
+
+# markdown解析
+markdown: kramdown
+
+# 代码高亮
+highlighter: rouge
