@@ -59,8 +59,8 @@ title: 主页
 
 ## 📬 联系 / 交流
 
- **Wechat**: edigitalchoicecs
- <br>**TG**: @hahalee
+ **Wechat**: [edigitalchoicecs](https://img.auctiva.com/imgdata/2/0/1/6/2/8/7/webimg/1165375429_o.jpg)
+ <br>**TG**: [@hahalee](https://t.me/hahalee)
 
 ---
 
