@@ -19,13 +19,13 @@ title: 主页
 
 👉 可以直接使用我们的解决方案：
 
-🌐 数智通｜海外智选（主站：综合服务 / 新站）  
+数智通｜海外智选（主站：综合服务 / 新站）  
 👉 [https://accssupply.com](https://accssupply.com)
 
-🎮 数智通｜数字甄选（分站：游戏服务 / 礼品卡）  
+数智通｜数字甄选（分站：游戏服务 / 礼品卡）  
 👉 [https://edigitalchoice.com](https://edigitalchoice.com)
 
-🌏 数智通｜跨境严选（分站：跨境服务 / 老客户）  
+数智通｜跨境严选（分站：跨境服务 / 老客户）  
 👉 [https://guokezhihui.com](https://guokezhihui.com)
 
 ---
