@@ -48,7 +48,7 @@ permalink: /about/
 # 联系与更多资源
 
 👉 更多教程与内容：
-[https://www.myggpark.com](https://www.myggpark.com))
+[https://www.myggpark.com](https://www.myggpark.com)
 
 👉 数字产品与服务：
 [https://www.edigitalchoice.com](https://www.edigitalchoice.com)
