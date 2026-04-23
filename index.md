@@ -60,7 +60,8 @@ title: 数智通｜出海研究站
 
 ## 📬 联系 / 交流
 
-（这里可以放你的微信 / 私域入口）
+ **Wechat**: edigitalchoicecs
+ **TG**: @hahalee
 
 ---
 
