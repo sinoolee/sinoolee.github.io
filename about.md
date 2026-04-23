@@ -4,7 +4,7 @@ title: 关于我
 permalink: /about/
 ---
 
-# 关于本站
+# 基本介绍
 
 你好，这里是 SinooLee 的出海数字资源博客。
 
