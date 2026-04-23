@@ -55,7 +55,7 @@ description: 如何在中国订阅Google Gemini AI？介绍三种方法并避坑
 
 > 直接判定为“异常用户” → 出现“此账号无法订阅Google AI”
 
-![Google Gemini无法订阅提示地区不支持](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-error-region.jpeg)
+![Google Gemini无法订阅提示地区不支持](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-error-region.png)
 如果你已经遇到**“此账号无法订阅Google AI”**连订阅按钮都没有的情况：
 
 建议先看这篇：[Gemini无法订阅完整排查与解决教程](https://sinoolee.github.io/xxxx)
