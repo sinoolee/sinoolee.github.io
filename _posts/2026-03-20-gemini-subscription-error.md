@@ -122,7 +122,7 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 
 ---
 
-## 四、如何更换Google Payment国家？
+## **四、如何更换Google Payment国家？**
 
 **步骤如下**：
 
