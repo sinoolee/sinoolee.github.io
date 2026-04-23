@@ -48,16 +48,16 @@ permalink: /about/
 # 联系与更多资源
 
 👉 更多教程与内容：
-https://www.myggpark.com
+[https://www.myggpark.com](https://www.myggpark.com))
 
 👉 数字产品与服务：
-https://www.edigitalchoice.com
+[https://www.edigitalchoice.com](https://www.edigitalchoice.com)
 
 👉 跨境工具与出海资源：
-https://www.accssupply.com/
+[https://www.accssupply.com/](https://www.accssupply.com/)
 
 👉 AI应用与综合资源：
-https://www.guokezhihui.com
+[https://www.guokezhihui.com](https://www.guokezhihui.com)
 
 ---
 
