@@ -103,7 +103,7 @@ PayPal 注册/养号难 + 付款也有风控
 **原理**：利用Apple Store的内购机制，绕过复杂的网页端风控。
 
 **关键点**：  
-确保你的 Apple ID 为非中国区（如 **[美区ID]**(https://www.edigitalchoice.com/buy/5)，且账号环境稳定。  
+确保你的 Apple ID 为非中国区（如 [美区ID](https://www.edigitalchoice.com/buy/5)，且账号环境稳定。  
 支付方式：Apple礼品卡
 
 **优势**：
