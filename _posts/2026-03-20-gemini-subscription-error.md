@@ -201,7 +201,8 @@ Google Play地区实际上由 Payment 地区决定。如果你的账号和支付
 
 如果你不想自己一步步排查这些复杂条件，也可以直接使用已经完成环境配置的账号，避免反复出现Gemini无法订阅的问题。
 
-👉[不想折腾环境？直接使用可订阅Gemini的账号方案](https://edigitalchoice.com/buy/105)
+👉**[不想折腾环境？直接使用可订阅Gemini的账号方案](https://edigitalchoice.com/buy/105)**
+
 ---
 
 ## **总结**
