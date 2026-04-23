@@ -13,6 +13,7 @@ description: 如何在中国订阅Google Gemini AI？介绍三种方法并避坑
 ❌ 支付失败 / 被拒绝  
 
 ![用户订阅Google Gemini支付失败提示](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-payment-failed.jpg)
+
 你可能会以为是支付问题，但其实：
 
 99%的人失败，不是不会付钱，而是“账号不属于支持地区”。
