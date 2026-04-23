@@ -192,8 +192,7 @@ Google Play礼品卡付款总是失败，是最容易“翻车”的方式。
 
 以下是几种“代劳”方式的汇总：
 
-![Google Gemini订阅代劳方式对比]
-(https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-methods-comparison.jpg)
+![Google Gemini订阅代劳方式对比](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-methods-comparison.jpg)
 
 ---
 
