@@ -3,7 +3,7 @@ layout: default
 title: 主页
 ---
 
-# 🌍 数智通｜出海研究站
+# 🌍 数智通出海研究站
 
 **分享真实可用的海外数字服务实战指南，解决订阅、支付与账号风控问题**
 
@@ -19,13 +19,13 @@ title: 主页
 
 可以直接使用我们的解决方案：
 
-数智通｜海外智选（主站：综合服务 / 新站）  
+数智通海外智选（主站：综合服务 / 新站）  
 👉 [https://accssupply.com](https://accssupply.com)
 
-数智通｜数字甄选（分站：游戏服务 / 礼品卡）  
+数智通数字甄选（分站：游戏服务 / 礼品卡）  
 👉 [https://edigitalchoice.com](https://edigitalchoice.com)
 
-数智通｜跨境严选（分站：跨境服务 / 老客户）  
+数智通跨境严选（分站：跨境服务 / 老客户）  
 👉 [https://guokezhihui.com](https://guokezhihui.com)
 
 ---
