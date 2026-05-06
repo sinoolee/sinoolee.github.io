@@ -12,7 +12,7 @@ description: 如何在中国订阅Google Gemini AI？介绍三种方法并避坑
 ❌ Google AI Plan不支持你所在地区  
 ❌ 支付失败 / 被拒绝  
 
-![用户订阅Google Gemini支付失败提示](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-payment-failed.jpeg)
+![用户订阅Google Gemini支付失败提示](https://myggpark.github.io/assets/images/google-gemini-subscription-china/google-gemini-payment-failed.jpeg)
 
 你可能会以为是支付问题，但其实：
 
@@ -55,10 +55,10 @@ description: 如何在中国订阅Google Gemini AI？介绍三种方法并避坑
 
 > 直接判定为“异常用户” → 出现“此账号无法订阅Google AI”
 
-![Google Gemini无法订阅提示地区不支持](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-error-region.png)
+![Google Gemini无法订阅提示地区不支持](https://myggpark.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-error-region.png)
 如果你已经遇到**“此账号无法订阅Google AI”**连订阅按钮都没有的情况：
 
-建议先看这篇：[Gemini无法订阅完整排查与解决教程](https://sinoolee.github.io/xxxx)
+建议先看这篇：[Gemini无法订阅完整排查与解决教程](https://myggpark.github.io/xxxx)
 
 注意：一定先解决“ **资格问题**”，再谈支付。
 
@@ -83,14 +83,14 @@ PayPal 注册/养号难 + 付款也有风控
 本人实测：  
 香港/美国银行卡、海外虚拟信用卡、招行全球通信用卡、中行跨境卡均可成功订阅，但成功率依赖账号环境与支付地区一致性。
 
-![使用银行卡成功订阅Google Gemini提示界面](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-credit-card-subscription-success.jpg)
+![使用银行卡成功订阅Google Gemini提示界面](https://myggpark.github.io/assets/images/google-gemini-subscription-china/google-gemini-credit-card-subscription-success.jpg)
 **进阶建议**：  
 需要配置指纹浏览器或原生海外环境，确保Payment Profile 的地址信息与IP归属地高度匹配。
 
 **阅读推荐**：
 
-- [美国PayPal注册教程](https://sinoolee.github.io/xxxx)  
-- [指纹浏览器搭建海外环境教程](https://sinoolee.github.io/xxxx)
+- [美国PayPal注册教程](https://myggpark.github.io/xxxx)  
+- [指纹浏览器搭建海外环境教程](https://myggpark.github.io/xxxx)
 
 **结论**：  
 适合：能搭建海外支付环境的人  
@@ -118,7 +118,7 @@ PayPal 注册/养号难 + 付款也有风控
 3. 点击【Upgrade】订阅按钮，通过App内购点击订阅  
 4. 使用提前充值的礼品卡余额完成支付
 
-![Apple ID订阅Google Gemini操作流程](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-apple-id-subscription.jpg)
+![Apple ID订阅Google Gemini操作流程](https://myggpark.github.io/assets/images/google-gemini-subscription-china/google-gemini-apple-id-subscription.jpg)
 **避坑提醒**：
 
 新账号不要立刻充值大额礼品卡，容易触发 Apple 风控。
@@ -131,7 +131,7 @@ PayPal 注册/养号难 + 付款也有风控
   - 余额异常
   - 地区不稳定
 
-**解决方案**：[苹果礼品卡消费失败解决教程](https://sinoolee.github.io/xxxx)
+**解决方案**：[苹果礼品卡消费失败解决教程](https://myggpark.github.io/xxxx)
 
 **结论**：  
 如果你在中国想稳定订阅Google Gemini，Apple ID 是目前成功率最高、最不容易翻车的方式（强烈推荐）  
@@ -156,7 +156,7 @@ Google Play礼品卡付款总是失败，是最容易“翻车”的方式。
 **现实情况是**：  
 即便你使用了所谓的“海外IP”，如果账号历史轨迹、支付资料曾在中国留痕，Google礼品卡连充值都无法充值进去。
 
-![Google Play礼品卡地区不匹配导致订阅失败](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-play-gift-card-region-error.png)
+![Google Play礼品卡地区不匹配导致订阅失败](https://myggpark.github.io/assets/images/google-gemini-subscription-china/google-play-gift-card-region-error.png)
 
 **结论**：  
 非极客用户，请直接绕道。时间成本高且成功率不稳定。
@@ -169,8 +169,7 @@ Google Play礼品卡付款总是失败，是最容易“翻车”的方式。
 
 - **方案1**：[直接代订](https://www.guokezhihui.com/buy/183)（最省事）
 - **方案2**：[成品账号](https://www.guokezhihui.com/buy/181)（最简单）
-- **方案3**：[教育账号](https://www.guokezhihui.com/buy/175)（体验型）
-- **方案4**：[Pixel订阅](https://www.guokezhihui.com/buy/182)（进阶玩法）
+- **方案3**：[Pixel代订](https://www.guokezhihui.com/buy/182)（进阶玩法）
 
 **重要提醒**：购买第三方服务时，请务必寻找有口碑的渠道，保护个人账号安全。（我自我推荐一下[我家的第三方服务](https://www.guokezhihui.com/)）
 
@@ -192,7 +191,7 @@ Google Play礼品卡付款总是失败，是最容易“翻车”的方式。
 
 以下是几种“ **代劳**”方式的汇总：
 
-![Google Gemini订阅代劳方式对比](https://sinoolee.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-methods-comparison.jpg)
+![Google Gemini订阅代劳方式对比](https://myggpark.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-methods-comparison.jpg)
 
 ---
 
