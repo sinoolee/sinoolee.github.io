@@ -58,7 +58,7 @@ description: 如何在中国订阅Google Gemini AI？介绍三种方法并避坑
 ![Google Gemini无法订阅提示地区不支持](https://myggpark.github.io/assets/images/google-gemini-subscription-china/google-gemini-subscription-error-region.png)
 如果你已经遇到**“此账号无法订阅Google AI”**连订阅按钮都没有的情况：
 
-建议先看这篇：[Gemini无法订阅完整排查与解决教程](https://myggpark.github.io/xxxx)
+建议先看这篇：[Gemini无法订阅完整排查与解决教程](https://myggpark.github.io/2026/03/20/gemini-subscription-error.html)
 
 注意：一定先解决“ **资格问题**”，再谈支付。
 
@@ -89,8 +89,8 @@ PayPal 注册/养号难 + 付款也有风控
 
 **阅读推荐**：
 
-- [美国PayPal注册教程](https://myggpark.github.io/xxxx)  
-- [指纹浏览器搭建海外环境教程](https://myggpark.github.io/xxxx)
+- [美国PayPal注册教程](https://www.myggpark.com/digital-migration/overseas-payment/2336.html)  
+- [指纹浏览器搭建海外环境教程](https://www.myggpark.com/digital-migration/cross-border-tools/956.html)
 
 **结论**：  
 适合：能搭建海外支付环境的人  
