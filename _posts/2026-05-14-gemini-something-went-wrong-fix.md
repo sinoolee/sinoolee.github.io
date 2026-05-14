@@ -13,7 +13,8 @@ description: "Gemini 显示 Something went wrong 怎么办？详解 Google Gemin
 
 但不少用户在访问 Gemini 或使用过程中，都会突然看到一个非常令人头疼的提示：
 
-![something went wrong](https://myggpark.github.io/assets/images/20260514002/20260427-LOGO.jpgassets/images/20260514002/20260427-LOGO.jpg)
+![something went wrong提示示](https://myggpark.github.io/assets/images/20260514002/20260427-LOGO.jpgassets/images/20260514002/20260427-LOGO.jpg)
+
 
 （Google Gemini 出问题了，请稍后再试）
 
