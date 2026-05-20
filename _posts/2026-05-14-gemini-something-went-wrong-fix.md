@@ -159,7 +159,7 @@ Gemini **并非全球 100% 开放**。
 
 1. **完全退出 Google 账号**
 2. **使用美国 IP**
-3. **访问以下链接并重新登录：[https://gemini.google.com/gems/create?hl=en-US&pli=1][https://gemini.google.com/gems/create?hl=en-US&pli=1]**
+3. **访问以下链接并重新登录：[https://gemini.google.com/gems/create?hl=en-US&pli=1](https://gemini.google.com/gems/create?hl=en-US&pli=1)**
 4. **尝试创建一个新的 Gemini 智能体（Gem）**
 
 ![设置一个新的描述体](https://myggpark.github.io/assets/images/20260514001/3-设置一个新的描述体.jpg)
@@ -249,7 +249,7 @@ Gemini **并非全球 100% 开放**。
 
 
 📺 **YouTube主页**  
-[https://www.youtube.com/@myggpark][https://www.youtube.com/@myggpark]
+[https://www.youtube.com/@myggpark](https://www.youtube.com/@myggpark)
 
 📺 **B站视频主页**  
-[https://space.bilibili.com/3546696399194431][https://space.bilibili.com/3546696399194431]
+[https://space.bilibili.com/3546696399194431](https://space.bilibili.com/3546696399194431)
